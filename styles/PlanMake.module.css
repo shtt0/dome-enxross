@@ -1,0 +1,48 @@
+/* 全体的なスタイル調整 */
+.flexContainer {
+  display: flex; /* Flexbox コンテナとして設定 */
+  justify-content: space-between; /* 要素間のスペースを均等に配分 */
+  align-items: flex-start; /* 要素を上端に揃える */
+}
+
+.inputContainer {
+  flex: 1; /* 左側のコンテナに適用 */
+  margin-right: 20px; /* 右側のコンテナとの間隔を設定 */
+}
+
+.spotListContainer {
+  flex: 1; /* 右側のコンテナに適用 */
+  background: #f3f4f6; /* 背景色 */
+  padding: 20px; /* パディング */
+  border-radius: 8px; /* 角丸 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 影を追加 */
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #f3f4f6;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 18px; /* フォントサイズを大きくする */
+  line-height: 1.5; /* 行間を広げる */
+}
+.input,
+.select {
+  width: 200%; /* 入力フィールドを幅いっぱいに */
+  font-size: 20px; /* フォントサイズの拡大 */
+  padding: 15px 20px; /* パディングの調整 */
+}
+
+.label {
+  width: auto; /* ラベルの幅を内容に合わせる */
+  margin-bottom: 10px; /* ラベルと入力フィールド間のマージン調整 */
+  display: inline-block; /* ラベルをインラインブロックに */
+}
+
+/* Description 入力欄の特別なスタイル */
+#description {
+  width: 800px;
+  height: 300px; /* 高さを増やす */
+}

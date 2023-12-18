@@ -1,0 +1,30 @@
+const Web3 = require('web3');
+const web3 = new Web3('https://polygonzkevm-testnet.g.alchemy.com/v2/Ufy5afad8C2swcF5Y2_cTPgy6PCowjbQ');
+
+
+
+const contractABI = [
+  {
+    "constant": false,
+    "inputs": [{"name": "_tokenId", "type": "uint256"}, {"name": "_spotId", "type": "uint256"}],
+    "name": "checkIn",
+    "outputs": [],
+    "type": "function"
+  }
+  // 他関数定義省略
+];
+
+const contractAddress = "0x7cECCD94EE3F14cB79db0667AEE62A6ae1f422A6";
+const contract = new web3.eth.Contract(contractABI, contractAddress);
+
+// get NFT Id
+{
+    "contractAddress": "0xa3154E1eaaf786AD76320d5D9896BCB5C40fe2Ea",
+    "tokenId": 0,
+    "spotId": 1
+  }
+
+contract.methods.checkIn(tokenId, spotId).send({ from: userAddress })
+  .on('receipt', receipt => {
+    console.log('Check-in recorded:', receipt);
+  });

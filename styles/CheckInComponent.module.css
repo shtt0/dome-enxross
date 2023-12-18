@@ -1,0 +1,14 @@
+/* CheckInComponent.module.css */
+.inputField {
+  font-size: 20px; /* フォントサイズを大きくする */
+  padding: 10px; /* 入力フィールドの内側の余白を増やす */
+  margin-bottom: 10px; /* 入力フィールド間の余白を設定 */
+  margin: 15px; /* 入力フィールド間の余白を設定 */
+  width: 30%; /* 幅を最大にする */
+  box-sizing: border-box; /* パディングを含めた幅を100%にする */
+}
+
+/* CheckInComponent.module.css */
+.web3ButtonHover:hover {
+  background-color: #add8e6; /* 薄い青 */
+}

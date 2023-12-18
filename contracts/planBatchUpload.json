@@ -1,0 +1,82 @@
+[
+  {
+    "name": "東京ドームシティデートプランNFT ＃1",
+    "description": "デートプランの詳細な説明。このプランでは、スポット1とスポット3を訪れます。",
+    "category": "デート",
+    "image": "https://purple-inland-toucan-496.mypinata.cloud/ipfs/QmRrcMdFD9xkq4BcUKW6n9kC93HH82xgyZTjCfBMa1fWVT?_gl=1*1s72u9j*_ga*ODQyMDMwMTU3LjE3MDA0MTM2NTY.*_ga_5RMPXG14TE*MTcwMjM5ODcyMi4xNy4xLjE3MDIzOTg3NTMuMjkuMC4w",
+    "external_url": "https://play-life.jp/articles/1032",
+    "youtube_url": "https://youtu.be/koTk1IugdI0?si=2KuA9Tozz6O7al_R",
+    "daoMember": "0x8d77B4E72c5aec74d24176BB8dC21843dCFc6e54",
+    "attributes": [
+      {
+        "trait_type": "Spot1",
+        "value": "未訪問"
+      },
+      {
+        "trait_type": "Spot3",
+        "value": "未訪問"
+      }
+    ],
+    "tokenAmount": "100000000000000000000"
+  },
+  {
+    "name": "東京ドームシティデートプランNFT ＃2",
+    "description": "デートプランの詳細な説明。このプランでは、スポット1とスポット3を訪れます。",
+    "category": "デート",
+    "image": "https://purple-inland-toucan-496.mypinata.cloud/ipfs/QmRrcMdFD9xkq4BcUKW6n9kC93HH82xgyZTjCfBMa1fWVT?_gl=1*1s72u9j*_ga*ODQyMDMwMTU3LjE3MDA0MTM2NTY.*_ga_5RMPXG14TE*MTcwMjM5ODcyMi4xNy4xLjE3MDIzOTg3NTMuMjkuMC4w",
+    "external_url": "https://play-life.jp/articles/1032",
+    "youtube_url": "https://youtu.be/koTk1IugdI0?si=2KuA9Tozz6O7al_R",
+    "daoMember": "0x8d77B4E72c5aec74d24176BB8dC21843dCFc6e54",
+    "attributes": [
+      {
+        "trait_type": "Spot1",
+        "value": "未訪問"
+      },
+      {
+        "trait_type": "Spot3",
+        "value": "未訪問"
+      }
+    ],
+    "tokenAmount": "100000000000000000000"
+  },
+  {
+    "name": "東京ドームシティデートプランNFT ＃3",
+    "description": "デートプランの詳細な説明。このプランでは、スポット1とスポット3を訪れます。",
+    "category": "デート",
+    "image": "https://purple-inland-toucan-496.mypinata.cloud/ipfs/QmRrcMdFD9xkq4BcUKW6n9kC93HH82xgyZTjCfBMa1fWVT?_gl=1*1s72u9j*_ga*ODQyMDMwMTU3LjE3MDA0MTM2NTY.*_ga_5RMPXG14TE*MTcwMjM5ODcyMi4xNy4xLjE3MDIzOTg3NTMuMjkuMC4w",
+    "external_url": "https://play-life.jp/articles/1032",
+    "youtube_url": "https://youtu.be/koTk1IugdI0?si=2KuA9Tozz6O7al_R",
+    "daoMember": "0x8d77B4E72c5aec74d24176BB8dC21843dCFc6e54",
+    "attributes": [
+      {
+        "trait_type": "Spot1",
+        "value": "未訪問"
+      },
+      {
+        "trait_type": "Spot3",
+        "value": "未訪問"
+      }
+    ],
+    "tokenAmount": "100000000000000000000"
+  },
+  {
+    "name": "東京ドームシティデートプランNFT ＃4",
+    "description": "デートプランの詳細な説明。このプランでは、スポット1とスポット3を訪れます。",
+    "category": "デート",
+    "image": "https://purple-inland-toucan-496.mypinata.cloud/ipfs/QmRrcMdFD9xkq4BcUKW6n9kC93HH82xgyZTjCfBMa1fWVT?_gl=1*1s72u9j*_ga*ODQyMDMwMTU3LjE3MDA0MTM2NTY.*_ga_5RMPXG14TE*MTcwMjM5ODcyMi4xNy4xLjE3MDIzOTg3NTMuMjkuMC4w",
+    "external_url": "https://play-life.jp/articles/1032",
+    "youtube_url": "https://youtu.be/koTk1IugdI0?si=2KuA9Tozz6O7al_R",
+    "daoMember": "0x8d77B4E72c5aec74d24176BB8dC21843dCFc6e54",
+    "attributes": [
+      {
+        "trait_type": "Spot1",
+        "value": "未訪問"
+      },
+      {
+        "trait_type": "Spot3",
+        "value": "未訪問"
+      }
+    ],
+    "tokenAmount": "100000000000000000000"
+  }
+]
